@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: process.png
+alt: image-alt
+project-date: April 2015
+category: Direct Air Capture of CO2
+description: This process uses a moisture swing to drive the adsorption desorption process, as opposed to a pressure or temperature swing 
+
+---
