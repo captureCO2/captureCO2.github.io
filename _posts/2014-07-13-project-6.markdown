@@ -2,10 +2,14 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: process.png
+img: cost.png
+title: Cost Estimate for Direct Air Capture with Moisture Swing Sorbent
 alt: image-alt
 project-date: April 2015
 category: Direct Air Capture of CO2
-description: This process uses a moisture swing to drive the adsorption desorption process, as opposed to a pressure or temperature swing 
+description: Prices given indicate our estimate of the total cost, including capital and operating costs, to remove  and sequester 1 tonne of CO2, using different technologies. 
+
+
+
 
 ---

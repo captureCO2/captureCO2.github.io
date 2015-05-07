@@ -3,10 +3,12 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: map.png
+title: Viable locations For Moisture Sensitive Process
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Viable year round locations 
+description: This material regenerates, or releases CO2 when exposed to moisture. If the material is exposed to moisture before the sorption process, it won't be able to absorb as much CO2.This technology requires dewpoint of -2C to 8C to operate, which places limits on where technology is viable year-round.Fortunately, there are still plenty of viable locations in US and around the world. Locations with suitable year round dew point are shown above in white, pink, and purple. 
+
 
 ---
