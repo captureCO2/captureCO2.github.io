@@ -8,7 +8,7 @@ We are a group of Bachelor’s and Graduate level UC Berkeley students who are c
 We discovered information about a promising material in a paper titled "Moisture swing sorbent for carbon dioxide capture from ambient air". The technology is a membrane sorbent that uses a water swing to absorb and desorb CO2, as compared to the traditional energy intensive pressure and temperature swing sorbents like amines. While this technology is still earlier stage, our rough economic modeling shows that this water swing sorbent could be implemented for only twice the cost of flue gas CO2 capture as compared to three times the cost of flue gas capture for conventional DAC technology.
 
 ---
-```
+
 
 ## Navigate to our project
 View our full media project here [here](https://captureco2.github.io)
@@ -17,4 +17,5 @@ View our full media project here [here](https://captureco2.github.io)
 ![screenshot](https://raw.githubusercontent.com/captureCO2/captureCO2.github.io/master/screenshot.png)
 
 =========
-The website was developed by Kadie Jaffe. Content was developed by Kadie, Peter, Marty, and Tim. Information was gathered from the following references listed on the website. [Kadie Jaffe](https://github.com/kadie16)
+
+The website was developed by Kadie Jaffe. Content was developed by Kadie, Peter, Marty, and Tim. Information was gathered from the references listed on the website. [Kadie Jaffe](https://github.com/kadie16)
