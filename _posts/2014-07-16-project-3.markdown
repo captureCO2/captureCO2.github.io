@@ -2,11 +2,13 @@
 layout: default
 modal-id: 3
 date: 2015-04-01
-img: circus.png
+img: water.png
 alt: image-alt
 project-date: April 2015
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: HOWEVER, this technology requires reasonable amount of water which can be provided by desalination for little cost. Desalination requires only small amount of energy compared to energy density of carbon sources (15-30kWh/tonCO2). This amounts to only 10-20% of our capture energy cost, or 0.2% to 0.4% of carbon energy collected by power plant. <br> <br> Sources: <br> <a href="http://www.civilsocietyinstitute.org/media/pdfs/091912%20Hidden%20Costs%20of%20Electricity%20report%20FINAL2.pdf#page58"> [1] </a>  <a href="http://www.eia.gov/tools/faqs/faq.cfm?id=74&t=11"> [2] </a>
+
+
 
 ---
