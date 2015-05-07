@@ -70,7 +70,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #011f4b;
+    
 }
 
 hr.star-primary {
@@ -122,7 +122,7 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 3.75em;
     }
 
     header .intro-text .skills {
@@ -187,8 +187,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #011f4b;
+    color: #011f4b;
+    background: #00;
 }
 
 @media(max-width:767px) {
@@ -199,6 +199,9 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+#portfolio {
+    background: #b3cde0;
 }
 
 #portfolio .portfolio-item {
@@ -260,9 +263,9 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #6497b1;
     font-size: 20px;
-    color: #fff;
+    color: #011f4b;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -271,9 +274,9 @@ section.success {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #6497b1;
     color: #011f4b;
-    background: #fff;
+    background: #b3cde0;
 }
 
 .floating-label-form-group {
