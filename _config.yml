@@ -1,5 +1,5 @@
 # Site settings
-title: Direct Air Capture of CO2 with Moisture Swing Sorbents 
+title: 'Moisture Swing Sorbents: a solution for Direct Air Capture of Carbon Dioxide'
 email: co2sorbent@gmail.com
 url: https://captureCO2.github.io
 description: "Moisture Swing Sorbents: a viable solution for Direct Air Capture of Carbon Dioxide"
@@ -18,7 +18,7 @@ footer:
   copyright: Kadie Jaffe, Peter Lobaccaro, Martin Gelenter, Tim Sennott
   location: UCB College of Chemistry 
   social: Connect With Us 
-  credits: References
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -38,7 +38,7 @@ address:
   - line: Berkeley, CA 94720
 
 # Credits content
-credits: ' See above for list of references. '
+credits: ' See references above. Site developed by Kadie Jaffe. Content by Kadie Jaffe, Peter Lobaccaro, Martin Gelenter, and Tim Sennott. <br> <a href="https://github.com/captureCO2/captureCO2.github.io"> See Our Project on GitHub </a>'
 
 
 # Build settings
