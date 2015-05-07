@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: cake.png
+modal-id: 1
+date: 2015-05-08
+title: Why Direct Air Capture
+img: intro.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Over 25% of carbon dioxide emissions come from the transportation sector where fossil fuel dependence is very strong.  While electrification of the car and truck fleet will help mitigate the amount of CO2 being released by this sector, electrification will take some time to implement and in some cases isn’t feasible (aka air travel).  Thus it is not unreasonable to think that there will continue to be a large distributed release of CO2 into the atmosphere from transportation which due to its distributed nature cannot be addressed like point sources with traditional CCS solutions.  The only solution to mitigate the CO2 emissions from these distributed sources is direct air capture of CO2.
 
 ---

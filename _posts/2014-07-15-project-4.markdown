@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2015-05-06
 img: process2.png
 title: Overview of Proposed Direct Air Capture Process
 alt: image-alt
-project-date: April 2014
+project-date: April 2015
 client: Start Bootstrap
 category: Web Development
 description: First, we use moisture swing sorption to capture CO2 from air and produce a stream containing 5% at 1 bar. Next, use a conventional amine absorption system to further separate CO2 from the rest of the gas stream and produce a CO2 rich stream containing 90% CO2. Then, Compress CO2 to 150 bar. This allows CO2 to be supercritical, meaning it is much more dense and can be stored in a relatively small location. Finally, Pump supercritical CO2 into underground porous rock formations for sequestration!
