@@ -6,8 +6,9 @@ img: water.png
 alt: image-alt
 project-date: April 2015
 client: Start Bootstrap
+title: Water Concerns
 category: Web Development
-description: HOWEVER, this technology requires reasonable amount of water which can be provided by desalination for little cost. Desalination requires only small amount of energy compared to energy density of carbon sources (15-30kWh/tonCO2). This amounts to only 10-20% of our capture energy cost, or 0.2% to 0.4% of carbon energy collected by power plant. <br> <br> Sources: <br> <a href="http://www.civilsocietyinstitute.org/media/pdfs/091912%20Hidden%20Costs%20of%20Electricity%20report%20FINAL2.pdf#page58"> [1] </a>  <a href="http://www.eia.gov/tools/faqs/faq.cfm?id=74&t=11"> [2] </a>
+description: HOWEVER, this technology requires reasonable amount of water which can be provided by desalination for little cost. Desalination requires only small amount of energy compared to energy density of carbon sources (15-30kWh/tonCO2). This amounts to only 10-20% of our capture energy cost, or 0.2% to 0.4% of carbon energy collected by power plant.
 
 
 
