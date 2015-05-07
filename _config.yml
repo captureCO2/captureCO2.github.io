@@ -23,15 +23,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin.com
-  - title: linkedin
-    url: http://linkedin.com
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: facebook
-    url: http://facebook.com 
+    url: https://www.linkedin.com/pub/kadie-jaffe/91/657/a1a
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/kadie16
+  - title: facebook
+    url: https://www.facebook.com/UCBerkeley
+  - title: github
+    url: https://github.com/captureCO2/captureCO2.github.io
 
 # Postal address (add as many lines as necessary)
 address:
