@@ -11,11 +11,11 @@ We discovered information about a promising material in a paper titled "Moisture
 
 
 ## Navigate to our project
-View our full media project here [here](https://captureco2.github.io)
+View our full media project [here](https://captureco2.github.io)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/captureCO2/captureCO2.github.io/master/screenshot.png)
 
 =========
 
-The website was developed by Kadie Jaffe. Content was developed by Kadie, Peter, Marty, and Tim. Information was gathered from the references listed on the website. [Kadie Jaffe](https://github.com/kadie16)
+The website was developed by [Kadie Jaffe](https://github.com/kadie16). Content was developed by Kadie, Peter, Marty, and Tim. Information was gathered from the references listed on the website. 
